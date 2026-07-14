@@ -1,0 +1,12 @@
+COASTAL HILL PASSENGER
+
+Passenger: Yazhini Arul
+Date: 15-01-2026
+Departure: 14:45
+
+From: Kadalpuram
+To: Velli Hills
+
+Coach: C2
+Seat: 14
+Ticket ID: CHP64
