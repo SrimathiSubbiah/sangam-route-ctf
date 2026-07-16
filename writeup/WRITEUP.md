@@ -975,7 +975,7 @@ Kadalpuram Warehouse Marker 07
 The final flag is:
 
 ```text
-flag{kadalpuram_warehouse_07}
+expX{kadalpuram_warehouse_07}
 ```
 
 ---
@@ -1031,7 +1031,7 @@ Extract last_location.7z
         ↓
 Recover final_location.txt
         ↓
-flag{kadalpuram_warehouse_07}
+expX{kadalpuram_warehouse_07}
 ```
 
 ---
@@ -1057,5 +1057,5 @@ SQLite3
 # Flag
 
 ```text
-flag{kadalpuram_warehouse_07}
+expX{kadalpuram_warehouse_07}
 ```

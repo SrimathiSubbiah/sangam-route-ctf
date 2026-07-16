@@ -12,4 +12,4 @@ Not every timestamp deserves to be trusted.
 Reconstruct the true journey and recover her final field note.
 
 Flag format:
-flag{...}
+expX{...}

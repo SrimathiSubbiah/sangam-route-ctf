@@ -35,4 +35,4 @@ The player-facing evidence is available in the [`challenge/`](challenge/) direct
 ## Flag Format
 
 ```text
-flag{...}
+expX{...}

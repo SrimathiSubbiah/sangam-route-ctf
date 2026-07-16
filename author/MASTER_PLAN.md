@@ -830,7 +830,7 @@ Kadalpuram Warehouse Marker 07
 
 25. Final Flag
 
-flag{kadalpuram_warehouse_07}
+expX{kadalpuram_warehouse_07}
 
 ---------------------------------------------------------------------------------
 
@@ -1003,7 +1003,7 @@ Stage 17:
 
 Participant obtains the final flag:
 
-flag{kadalpuram_warehouse_07}
+expX{kadalpuram_warehouse_07}
 
 ---------------------------------------------------------------------------------
 
@@ -1144,7 +1144,7 @@ Before releasing the challenge:
 
 Recommended command:
 
-grep -RniE 'flag\{|MUL-PAA-NEI-KUR-MAR|kadalpuram_warehouse_07' challenge_files/
+grep -RniE 'expX\{|MUL-PAA-NEI-KUR-MAR|kadalpuram_warehouse_07' challenge_files/
 
 Expected result:
 
