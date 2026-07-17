@@ -1,38 +1,51 @@
 # The Sangam Route
 
-**Category:** Digital Forensics  
-**Difficulty:** Medium–Hard
+A Digital Forensics CTF challenge inspired by Sangam literature.
+
+## Category
+
+Digital Forensics
+
+## Difficulty
+
+Medium
 
 ## Story
 
-Dr. Yazhini Arul disappeared while documenting a route inspired by the
-five landscapes of Sangam literature.
+Dr. Yazhini Arul disappeared while researching ancient Tamil trade routes.
 
-Her recovered research files contain photographic evidence, browser
-history, travel records, a camera-card image, and a locked archive.
+Participants must analyze recovered digital evidence including photographs, browser history, travel records, metadata, and encrypted archives to reconstruct her journey and recover the hidden flag.
 
-Not every file is what it appears to be.  
-Not every timestamp deserves to be trusted.
+## Files
 
-Reconstruct the true journey and recover her final field note.
+```
+challenge/
+```
 
-## Skills Tested
+## Challenge Description
 
-- File-type identification
-- Embedded archive discovery
-- Deleted-file recovery
-- EXIF metadata analysis
-- SQLite database investigation
-- Timeline reconstruction
-- Evidence correlation
-- Sangam landscape classification
-- Encrypted archive extraction
+See:
 
-## Challenge Files
+```
+description.md
+```
 
-The player-facing evidence is available in the [`challenge/`](challenge/) directory.
+## Solution
+
+See:
+
+```
+solution/WRITEUP.md
+```
+
+> Contains spoilers.
 
 ## Flag Format
 
-```text
+```
 expX{...}
+```
+
+## Author
+
+SrimathiSubbiah
